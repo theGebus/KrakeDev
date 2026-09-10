@@ -1,7 +1,21 @@
-Git Clone.
+Git Clone:
 
 Sirve para copiar repositorios de git en mi computadora
 
-Git Commit
+Git Commit:
 
 Sirve para hacer puntos de restauración  que hice en mi proyecto
+
+Git Push:
+
+Subo los cambios a GitHub
+
+
+Git Status:
+
+Puedo ver los estado actual de tus proyectos  y saber que archivo se han cambiado
+
+
+Git Add:
+
+Preparo los Cambios
