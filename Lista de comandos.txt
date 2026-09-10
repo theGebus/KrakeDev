@@ -1,3 +1,7 @@
 Git Clone.
 
 Sirve para copiar repositorios de git en mi computadora
+
+Git Commit
+
+Sirve para hacer puntos de restauración  que hice en mi proyecto
